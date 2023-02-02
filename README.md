@@ -2,7 +2,7 @@
 
 - I'm a Developer, I code with Python in different frameworks like Flask, Django, FastApi, also I code bash script to automate tasks.
 - I love solve problems and strategy games because you need see different posibilities or options.
-- At present, I'm developing my final proyect to opt for a degree in Enginnering Mechatronics with Computer Vision using YOLOv5 algorithm. also I'm learning the DevOps culture to apply in the project in order to deliver a final product after getting the degree. 
+- At present, I'm developing my final proyect to opt for a degree in Enginnering Mechatronics with Computer Vision. also I'm learning the DevOps culture to apply in the project in order to deliver a final product after getting the degree. 
 <!--
 **Juerodriguez/Juerodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
