@@ -77,7 +77,7 @@ I am a mechatronics engineer with a strong passion for solving complex problems 
 ## Skills and Technologies
 
 - **Programming Languages**: Python, JavaScript, C, JAVA
-- **Frameworks and Libraries**: FastAPI, Flask, Node-RED, OpenCV, Pandas, Selenium, Springboot
+- **Frameworks and Libraries**: FastAPI, Flask, Angular, Node-RED, OpenCV, Pandas, Selenium, Springboot
 - **Databases**: PostgreSQL, MySQL, InfluxDB, Redis
 - **Development Tools**: Docker, Linux, Git, CUDA, Cmake, Arduino
 - **Analitycs Tools**: SQL, PowerBI, Datawarehouse.
