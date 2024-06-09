@@ -22,6 +22,15 @@ I am a mechatronics engineer with a strong passion for solving complex problems 
   - Grafana
   - Google Cloud Computing
   - Linux, bash, SSH, Firewall, Nmap, cryptography, IP protocols
+- Mechanics:
+  - Solidworks, Autocad, design
+  - Maintance, calibration, soldering, craft habilities
+  - CNC programing and manipulation
+- Electric:
+  - Electrical installations
+- Electronic:
+  - Electronic design, requirements analysis
+- Innovation Management
 
 ## Projects
 
