@@ -5,6 +5,22 @@
 ## About Me
 I am a mechatronics engineer with a strong passion for solving complex problems through innovative solutions. My expertise spans across various fields including mechanics, electronics, and systems engineering. I thrive on leading tech projects and continuously learning new technologies.
 
+## Tools
+- Languages and frameworks:
+  - Python, Flask, Fastapi, streamlit, matplotlib, selenium, pandas, os
+  - Java, Springboot
+  - Typescript, Angular
+  - NodeRed
+- Database and analytics tools:
+  - SQL, PostgreSQL, MySQL, Redis, InfluxDB
+  - PowerBI, datawarehouse
+- Artificial intelligence :
+  - OpenCV, Yolov5, Yolov8, ultralytics, roboflow
+Infraestructure:
+  - Docker, Compose, Github Actions
+  - Grafana
+  - Google Cloud Computing
+  - Linux, bash, SSH, Firewall, Nmap, cryptography, IP protocols
 
 ## Projects
 
