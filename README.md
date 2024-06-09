@@ -16,7 +16,7 @@ I am a mechatronics engineer with a strong passion for solving complex problems 
   - PowerBI, datawarehouse
 - Artificial intelligence :
   - OpenCV, Yolov5, Yolov8, ultralytics, roboflow
-Infraestructure:
+- Infraestructure:
   - Docker, Compose, Github Actions
   - Grafana
   - Google Cloud Computing
