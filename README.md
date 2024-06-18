@@ -1,4 +1,4 @@
-# Hi there I'm Juan Elias Rodriguez👋 (WARNING: This presentation letter is being developed so images and some links will be missing)
+# Hi there I'm Juan Elias Rodriguez👋
 
 ------------------------------
 
@@ -30,7 +30,9 @@ I am a mechatronics engineer with a strong passion for solving complex problems 
   - Electrical installations
 - Electronic:
   - Electronic design, requirements analysis
-- Innovation Management
+- Project Management
+  - Miro, Excel, Word, Jira, PowerBI.
+  - Prompt Enginnering, Agile, Kanban, Design ThinkinG.  
 
 ## Projects
 
