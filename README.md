@@ -31,8 +31,8 @@ I am a mechatronics engineer with a strong passion for solving complex problems 
 - Electronic:
   - Electronic design, requirements analysis
 - Project Management
-  - Miro, Excel, Word, Jira, PowerBI.
-  - Prompt Enginnering, Agile, Kanban, Design ThinkinG.  
+  - Miro, Canvas, Excel, Word, Jira, PowerBI.
+  - Prompt Engineering, Agile, Kanban, Design Thinking.  
 
 ## Projects
 
